@@ -41,4 +41,4 @@ $ ./gerenciador-de-tarefas -list
 
 ## Cross-compilação
 
-Este projeto foi feito para ser executado em diferentes plataformas, por isso é necessário compilar o código para cada arquitetura desejada. sendo assim, não deixamos um executável pré-compilado.
+Este projeto foi feito para ser executado em diferentes plataformas, por isso é necessário compilar o código para cada arquitetura desejada. sendo assim, não deixei um executável pré-compilado.
